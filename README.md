@@ -1,4 +1,4 @@
-# World Weather Analysis 2
+# World Weather Analysis
 
 ## Overview 
 It's great to have a vacation, but what if the weather is intolerable? We can help with that!
